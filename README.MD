@@ -1,30 +1,3 @@
-<p align="center">
-  <img
-    src="https://img.shields.io/github/last-commit/MigueldsBatista/conecta-cesar"
-    alt="Last commit"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/github/repo-size/MigueldsBatista/Rec-Tech"
-    alt="Repository Size"
-  />
-  <img
-    src="https://img.shields.io/github/languages/count/MigueldsBatista/Rec-Tech"
-    alt="Language Count"
-  />
-  <img
-    src="https://img.shields.io/github/commit-activity/t/MigueldsBatista/Rec-Tech"
-    alt="Commit Activity"
-  />
-  <a href="LICENSE"
-    ><img
-      src="https://img.shields.io/github/license/MigueldsBatista/Rec-Tech"
-      alt="License"
-  /></a>
-</p>
-
 # 🌍 Plataforma de Gestão de Resíduos Sólidos
 
 Bem-vindo ao repositório da nossa aplicação de gestão de resíduos sólidos! Este projeto visa otimizar o gerenciamento de resíduos em áreas urbanas, proporcionando uma solução eficaz e sustentável para moradores, coletores e administradores. Através de uma interface web intuitiva, nossa aplicação facilita a manutenção de lixeiras, monitoramento de resíduos, agendamento de coletas e muito mais. Abaixo estão as principais funcionalidades e links importantes do projeto.
