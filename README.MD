@@ -1,6 +1,6 @@
 # 🌍 Plataforma de Gestão de Resíduos Sólidos
 
-Bem-vindo ao repositório da nossa aplicação de gestão de resíduos sólidos! Este projeto visa otimizar o gerenciamento de resíduos em áreas urbanas, proporcionando uma solução eficaz e sustentável para moradores, coletores e administradores. Através de uma interface web intuitiva, nossa aplicação facilita a manutenção de lixeiras, monitoramento de resíduos, agendamento de coletas e muito mais. Abaixo estão as principais funcionalidades e links importantes do projeto.
+Este projeto visa otimizar o gerenciamento de resíduos em áreas urbanas, proporcionando uma solução eficaz e sustentável para moradores, coletores e administradores. Através de uma interface web intuitiva, nossa aplicação facilita a manutenção de lixeiras, monitoramento de resíduos, agendamento de coletas e muito mais. 
 
 ## ⚙️ Principais Funcionalidades
 
@@ -109,6 +109,3 @@ Bem-vindo ao repositório da nossa aplicação de gestão de resíduos sólidos!
 - Tiago Gurgel - tgafa@cesar.school 📩
 - Vinícius Diniz - vdas@cesar.school 📩
 
-<a href="https://github.com/MigueldsBatista/Rec-Tech/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MigueldsBatista/Rec-Tech" />
-</a>
